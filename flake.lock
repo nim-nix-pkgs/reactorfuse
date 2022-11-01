@@ -81,11 +81,11 @@
       },
       "locked": {
         "dir": "v0_5_0",
-        "lastModified": 1667323291,
-        "narHash": "sha256-Kt4Oz6yKjBVg7hgK+AiQCdbCjMWQ8v4WuUAvo9fm28s=",
+        "lastModified": 1667330442,
+        "narHash": "sha256-vtYQ/T/XXNizUpLrin5SWp5C7MVRQGwnjrSVBSbnj1A=",
         "owner": "nim-nix-pkgs",
         "repo": "reactor",
-        "rev": "6aeaf947b255d873a4e8aaa16a6c78f439ed1e8e",
+        "rev": "851d5c75b4b83e5b2757564eadc42967bec37001",
         "type": "github"
       },
       "original": {
@@ -109,11 +109,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667323549,
-        "narHash": "sha256-kGDDc+DuAm0oBmnYEU5tiGQaMHN158ejVhi/tKiCaiA=",
+        "lastModified": 1667330625,
+        "narHash": "sha256-desrg3xXfd4EHB2fNc8c0QFhURhrwUUbb/rykTbpKiA=",
         "owner": "nim-nix-pkgs",
         "repo": "reactorfuse",
-        "rev": "9ca873952e1eecd558d73329e8f5eeb6adce80e3",
+        "rev": "98e16eebc5c689236e3f693d77eb16fc43e17a0b",
         "type": "github"
       },
       "original": {
